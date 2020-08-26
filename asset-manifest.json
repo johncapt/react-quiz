@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-quiz/static/css/main.049788eb.chunk.css",
+    "main.js": "/react-quiz/static/js/main.1980130d.chunk.js",
+    "main.js.map": "/react-quiz/static/js/main.1980130d.chunk.js.map",
+    "runtime-main.js": "/react-quiz/static/js/runtime-main.acabde0b.js",
+    "runtime-main.js.map": "/react-quiz/static/js/runtime-main.acabde0b.js.map",
+    "static/js/2.e3a131b2.chunk.js": "/react-quiz/static/js/2.e3a131b2.chunk.js",
+    "static/js/2.e3a131b2.chunk.js.map": "/react-quiz/static/js/2.e3a131b2.chunk.js.map",
+    "index.html": "/react-quiz/index.html",
+    "precache-manifest.8add69b6cccbb84b12fc90977925af22.js": "/react-quiz/precache-manifest.8add69b6cccbb84b12fc90977925af22.js",
+    "service-worker.js": "/react-quiz/service-worker.js",
+    "static/css/main.049788eb.chunk.css.map": "/react-quiz/static/css/main.049788eb.chunk.css.map",
+    "static/js/2.e3a131b2.chunk.js.LICENSE.txt": "/react-quiz/static/js/2.e3a131b2.chunk.js.LICENSE.txt",
+    "static/media/Australia.png": "/react-quiz/static/media/Australia.1a624abd.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.acabde0b.js",
+    "static/js/2.e3a131b2.chunk.js",
+    "static/css/main.049788eb.chunk.css",
+    "static/js/main.1980130d.chunk.js"
+  ]
+}
